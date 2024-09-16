@@ -5,7 +5,7 @@ fun main(){
     val secondScore = 4;
     val thirdScore = 3;
     val fourthScore = 5;
-    val arithmeticMean = (firstScore + secondScore + thirdScore + fourthScore) / 4;
+    val arithmeticMean = (firstScore + secondScore + thirdScore + fourthScore) / 4.0;
     print(arithmeticMean);
 
 }
