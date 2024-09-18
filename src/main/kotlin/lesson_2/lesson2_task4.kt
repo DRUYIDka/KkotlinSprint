@@ -5,7 +5,7 @@ fun main(){
     val ironNoBuff = 11
     val buffOnCristal: Int = (cristalNoBuff * BUFF_ON_MATERIAL)/100
     val buffOnIron: Int = (ironNoBuff * BUFF_ON_MATERIAL)/100
-    println ("Бафф будет давать сверху: buffOnCristal")
+    println ("Бафф будет давать сверху: ")
     println("Для кристаллической руды: $buffOnCristal")
     println("Для железной руды: $buffOnIron")
             
