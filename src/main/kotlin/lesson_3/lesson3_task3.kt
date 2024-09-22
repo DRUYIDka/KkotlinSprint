@@ -2,6 +2,7 @@ package org.example.lesson_3
 
 fun main(){
     val numberForTable = 5
+
     println("""
         $numberForTable x 1 = ${numberForTable * 1}
         $numberForTable x 2 = ${numberForTable * 2}
